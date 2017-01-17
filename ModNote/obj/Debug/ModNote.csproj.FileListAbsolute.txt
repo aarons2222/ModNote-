@@ -1,0 +1,20 @@
+C:\Users\Aaron\Desktop\ModNote\ModNote\bin\Debug\ModNote.exe.config
+C:\Users\Aaron\Desktop\ModNote\ModNote\bin\Debug\ModNote.exe
+C:\Users\Aaron\Desktop\ModNote\ModNote\bin\Debug\ModNote.pdb
+C:\Users\Aaron\Desktop\ModNote\ModNote\obj\Debug\ModNote.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\ModNote\ModNote\obj\Debug\ModNote.Form1.resources
+C:\Users\Aaron\Desktop\ModNote\ModNote\obj\Debug\ModNote.Properties.Resources.resources
+C:\Users\Aaron\Desktop\ModNote\ModNote\obj\Debug\ModNote.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\ModNote\ModNote\obj\Debug\ModNote.exe
+C:\Users\Aaron\Desktop\ModNote\ModNote\obj\Debug\ModNote.pdb
+C:\Users\Aaron\Desktop\ModNote\ModNote\obj\Debug\ModNote.Form2.resources
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\bin\Debug\ModNote.exe.config
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\obj\Debug\ModNote.exe
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\obj\Debug\ModNote.pdb
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\bin\Debug\ModNote.exe
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\bin\Debug\ModNote.pdb
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\obj\Debug\ModNote.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\obj\Debug\ModNote.Form2.resources
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\obj\Debug\ModNote.Properties.Resources.resources
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\obj\Debug\ModNote.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\ModNote - Copy\ModNote\obj\Debug\ModNote.Form1.resources
